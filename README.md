@@ -10,7 +10,7 @@ The tool is fully cross-platform and works on **Windows**, **Linux (including Ka
 
 - 🔍 Scans local network for connected devices (via ARP)
 - 🖥️ Displays IP, MAC address, and hostname in a table
-- 🎨 Styled GUI interface with ASCII-art header
+- 🎨 Styled GUI interface
 - ⚙️ Works on both Linux (sudo) and Windows (Admin mode)
 - 💡 Custom IP range input (no need to modify code)
 - ✅ Auto dependency install script with Kali-Linux support
