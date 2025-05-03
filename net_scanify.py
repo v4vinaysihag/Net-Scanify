@@ -77,7 +77,7 @@ ascii_banner = pyfiglet.figlet_format("Net Scanify")
 banner_label = tk.Label(root, text=ascii_banner, fg="cyan", bg="black", font=("Courier", 10), justify="left")
 banner_label.pack()
 
-credit = tk.Label(root, text="== Created by Vinay ==", fg="green", bg="black", font=("Arial", 10, "bold"))
+credit = tk.Label(root, text="== Created by Vinay Sihag ==", fg="green", bg="black", font=("Arial", 10, "bold"))
 credit.pack()
 
 public_ip = get_public_ip()
