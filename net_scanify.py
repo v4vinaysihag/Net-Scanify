@@ -69,11 +69,11 @@ def run_scan():
 
 # GUI Setup
 root = tk.Tk()
-root.title("Net Scanner - By Vinay")
+root.title("Net Scanify - By Vinay Sihag")
 root.geometry("750x600")
 root.configure(bg="black")
 
-ascii_banner = pyfiglet.figlet_format("Net Scanner")
+ascii_banner = pyfiglet.figlet_format("Net Scanify")
 banner_label = tk.Label(root, text=ascii_banner, fg="cyan", bg="black", font=("Courier", 10), justify="left")
 banner_label.pack()
 
