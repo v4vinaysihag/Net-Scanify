@@ -27,7 +27,7 @@ The tool is fully cross-platform and works on **Windows**, **Linux (including Ka
 ### 🐧 For Kali Linux / Ubuntu / Debian:
 
 ```bash
-git clone https://github.com/your-username/net-scanify.git
+git clone https://github.com/v4vinaysihag/Net-Scanify.git
 cd net-scanify
 chmod +x install.sh
 sudo ./install.sh
