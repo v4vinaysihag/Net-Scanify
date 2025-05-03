@@ -54,7 +54,7 @@ sudo ./install.sh
 Once installed, just run the main Python file:
 
 ```bash
-python3 net_scanner.py
+python3 net_scanify.py
 ```
 
 1. Enter the IP range (e.g. `192.168.1.0/24`)
@@ -76,7 +76,7 @@ Otherwise, scanning may fail due to lack of permission for raw socket access.
 
 ```
 net-scanify/
-├── net_scanner.py          # Main GUI tool
+├── net_scanify.py          # Main GUI tool
 ├── install.sh              # Auto installer for Linux
 ├── requirements.txt        # Python dependencies
 ├── README.md               # This file
